@@ -1,0 +1,1 @@
+Taggle Pte Ltd;STEADES;STEADES is a programme that provides support and guidance to help a person quit smoking<br><br>STEADES integrates with HealthKit.<br>With user permissions, it will use data obtained to provide users insights about their activities, keep track and monitor their vital signs.;0,1,2;
